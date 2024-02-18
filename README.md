@@ -1,4 +1,4 @@
-# Notebook for lecture on "Intermediate Python"
+# Notebook for SCTS lecture on "Intermediate Python"
 
 Chris Myers / Cornell Center for Advanced Computing / c.myers@cornell.edu
 
