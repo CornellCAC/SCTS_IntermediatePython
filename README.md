@@ -3,7 +3,7 @@
 Chris Myers / Cornell Center for Advanced Computing / c.myers@cornell.edu
 
 ## Overall logistics
-* This material can be found at in a github repository at https://github.com/CornellCAC/SCTS_IntermediatePython .
+* This material can be found at in a github repository at https://github.com/CornellCAC/SCTS_IntermediatePython
 * This material accompanies the Zoom-based lecture "Intermediate Python", offered as part of the Cornell/WCM Scientific Computing Training Series (SCTS).
 * The lecture will be run within a Jupyter notebook.
 * If you would like to be able to run the notebook on your own, you will need a suitable Jupyter+Python environment where you can access the notebook (more below).
@@ -26,9 +26,9 @@ If you have git installed locally, you should be able to clone the repository, e
 
 Click on the Code button above the file browser, and then click "Download ZIP".  Unzip the file to access its contents.
 
-## Running the notebook and participating in the exercises
+## Running the notebook
 
-There are a few different options for running the notebook and exercises, which are described below.  Once you've loaded the notebook into a JupyterLab environment, you can run cells by clicking the Run icon (right-pointing triangle) or by examining the various Run options in the Run menu.
+There are a few different options for running the notebook, which are described below.  Once you've loaded the notebook into a JupyterLab environment, you can run cells by clicking the Run icon (right-pointing triangle) or by examining the various Run options in the Run menu.
 
 ### 1. Run Jupyter locally
 
@@ -40,9 +40,6 @@ If you want to run on your own machine, you'll need python installed, along with
 * networkx
 * biopython
 * matplotlib
-
-conda create -n intermediate_py -c conda-forge python numpy jupyter numba cython networkx biopython matplotlib
-
 
 Depending on how you have python installed, there are few different options for proceeding.
 
