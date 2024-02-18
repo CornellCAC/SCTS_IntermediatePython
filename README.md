@@ -4,7 +4,7 @@ Chris Myers / Cornell Center for Advanced Computing / c.myers@cornell.edu
 
 ## Overall logistics
 * This material can be found at in a github repository at https://github.com/CornellCAC/SCTS_IntermediatePython
-* This material accompanies the Zoom-based lecture "Intermediate Python", offered as part of the Cornell/WCM Scientific Computing Training Series (SCTS).
+* This material accompanies the Zoom-based lecture "Intermediate Python", offered as part of the Cornell/WCM Scientific Computing Training Series (SCTS) described at https://its.weill.cornell.edu/scientific-computing-training-series 
 * The lecture will be run within a Jupyter notebook.
 * If you would like to be able to run the notebook on your own, you will need a suitable Jupyter+Python environment where you can access the notebook (more below).
 * If you do not want to run the notebook, you do not need to do anything further.  Links to the lecture material and the Zoom recording will be sent to registered participants of the online lecture.
