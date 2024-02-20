@@ -15,6 +15,7 @@ The repository contains the following files:
 * IntermediatePython.ipynb : a Jupyter notebook containing lecture material
 * README.md : this file
 * my_module.py : a simple file used in one of the code demonstrations
+* IntermediatePython.pdf : a static pdf rendering of the executed  notebook as delivered in the online lecture
 
 There are a few different options for accessing this material, two of which are described here.
 
